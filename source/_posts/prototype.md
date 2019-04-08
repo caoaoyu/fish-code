@@ -1,7 +1,8 @@
 ---
 title: 原型 - 继承 - 原型链
 date: 2017-12-26
-tag: #javascript
+tags:
+  - javascript
 ---
 
 JavaScript 只有一种结构：对象。

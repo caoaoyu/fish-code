@@ -1,7 +1,8 @@
 ---
 title: RN Text OnClick 事件不起作用
 date: 2017-05-17
-tag: #ReactNative#
+tags:
+  - ReactNative
 ---
 
 ```html

@@ -1,7 +1,8 @@
 ---
 title: 弹出框
 date: 2017-03-10
-tag: #bootstrap#
+tags:
+  - bootstrap
 ---
 
 

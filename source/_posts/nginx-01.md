@@ -1,7 +1,8 @@
 ---
 title: nginx 配置 location
 date: 2016-10-31
-tag: #jQuery#
+tags:
+  - jQuery
 ---
 
 安装目录下config文件夹

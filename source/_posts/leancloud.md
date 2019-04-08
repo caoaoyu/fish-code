@@ -1,7 +1,8 @@
 ---
 title: 初用 LeanCloud - 保存对象
 date: 2017-12-28
-tag: #LeanCloud#
+tags:
+  - LeanCloud
 ---
 
 #### 更改字段值并进行更新：

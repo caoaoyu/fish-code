@@ -1,7 +1,8 @@
 ---
 title: Sort()排序
 date: 2016-09-29
-tag: #javascript#
+tags:
+  - javascript
 ---
 
 遇到的问题：表格排序

@@ -1,7 +1,8 @@
 ---
 title: NPM报错 Segmentationfault:11
 date: 2016-11-25
-tag: #Npm#
+tags:
+  - NPM
 ---
 
 用n命令更新node，更新中间中断了，在执行node -v或者npm -v出现下面错误

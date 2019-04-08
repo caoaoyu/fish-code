@@ -1,7 +1,8 @@
 ---
 title: Navigative Style
 date: 2017-05-19
-tag: #ReactNative#
+tags:
+  - ReactNative
 ---
 ```
 {

@@ -1,7 +1,8 @@
 ---
 title: datetimepicker
 date: 2017-03-10
-tag: #bootstrap#
+tags:
+  - bootstrap
 ---
 
 依赖

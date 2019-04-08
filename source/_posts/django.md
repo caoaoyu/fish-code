@@ -1,7 +1,8 @@
 ---
 title: Django-error-01
 date: 2017-03-16
-tag: #Django#
+tags:
+  - Django
 ---
 ```python
 'dist/style/main.css' could not be found

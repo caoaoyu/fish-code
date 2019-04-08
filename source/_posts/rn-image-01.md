@@ -1,8 +1,8 @@
-
 ---
 title: Image source size {42, 32} does not match loaded image 
 date: 2017-06-19
-tag: #ReactNative#
+tags:
+  - ReactNative
 ---
 
 错误原因:

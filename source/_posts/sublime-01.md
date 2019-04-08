@@ -1,8 +1,8 @@
-
 ---
 title: 浏览器快捷键绑定
 date: 2016-09-28
-tag: #Sublime#
+tags:
+  - Sublime
 ---
 1. 首先打开 Preferences --> 按键绑定 – 用户
 ```

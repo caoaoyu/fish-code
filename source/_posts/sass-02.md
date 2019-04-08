@@ -1,7 +1,8 @@
 ---
 title: Mac 安装SASS没有反应
 date: 2016-11-09
-tag: #SASS#
+tags:
+  - SASS
 ---
 今天因为配置 Webstorm 的 file watch 功能,需要安装SASS
 因为已经安装过Ruby，所以就直接 gem install sass 但是完全没有任何反应

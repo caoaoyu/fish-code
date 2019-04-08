@@ -1,7 +1,8 @@
 ---
 title: 如何给br加宽高背景等颜色
 date: 2016-08-01
-tag: #HTML#
+tags:
+  - HTML
 ---
 
 ```html

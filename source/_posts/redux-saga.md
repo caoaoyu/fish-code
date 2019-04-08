@@ -1,5 +1,7 @@
 ---
 title: redux-saga 无法触发 takeEvery 事件
+tags:
+  - redux
 ---
 
 ```javascript

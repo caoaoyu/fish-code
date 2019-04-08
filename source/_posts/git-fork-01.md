@@ -1,7 +1,8 @@
 ---
 title: 如何同步 Github fork 出来的分支
 date: 2017-05-12
-tag: #Git#
+tags:
+  - Git
 ---
 
 项目 fetch 到本地，通过命令行的方式 merge

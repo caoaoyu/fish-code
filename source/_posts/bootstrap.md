@@ -1,7 +1,8 @@
 ---
 title: checkbox 全选反选
 date: 2017-03-16
-tag: #javascript#
+tags:
+- javascript
 ---
 
 <div class="checkboxs">

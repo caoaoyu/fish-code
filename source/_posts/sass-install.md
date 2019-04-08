@@ -1,7 +1,8 @@
 ---
 title: SASS安装
 date: 2016-08-03
-tag: #SASS#
+tags:
+  - SASS
 ---
 
 #### Ruby安装

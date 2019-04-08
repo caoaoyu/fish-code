@@ -1,7 +1,8 @@
 ---
 title: dva Redux mergeProps 语法
 date: 2017-05-15
-tag: #Redux#
+tags:
+  - Redux
 ---
 ```javascript
 connect(

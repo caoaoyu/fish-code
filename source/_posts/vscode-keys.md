@@ -1,6 +1,7 @@
 ---
 title: vscode-keys
-tags: #vscode
+tags:
+    - vscode
 ---
 
 记忆

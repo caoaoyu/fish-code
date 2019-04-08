@@ -1,7 +1,8 @@
 ---
 title: 输入url到页面呈现有哪些过程？
 date: 2018-03-06
-tag: #javascript
+tags:
+  - javascript
 ---
 
 #### 请求

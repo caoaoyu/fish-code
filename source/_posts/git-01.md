@@ -1,7 +1,8 @@
 ---
 title: Git-坑-1
 date: 2017-03-16
-tag: #Git#
+tags:
+  - Git
 ---
 错误 ：
 

@@ -1,7 +1,8 @@
 ---
 title: Highcharts实例
 date: 2016-09-21
-tag: #Highcharts#
+tags:
+  - Highcharts
 ---
 
 ```javascript

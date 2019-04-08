@@ -1,7 +1,8 @@
 ---
 title: 使用 GM 来做图片拼接
 date: 2017-12-25
-tag: #GM#
+tags:
+  - GM
 ---
 
 #### GraphicsMagick and ImageMagick for node

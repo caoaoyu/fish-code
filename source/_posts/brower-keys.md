@@ -1,7 +1,8 @@
 ---
 title: sublime - 浏览器快捷键绑定
 date: 2016-09-28
-tag: #HTML#
+tags:
+    - HTML
 ---
 
 首先打开 ```Preferences```

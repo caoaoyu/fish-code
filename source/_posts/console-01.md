@@ -1,7 +1,8 @@
 ---
 title: console.log()用法小结
 date: 2016-08-29
-tag: #chrome#
+tags:
+  - chrome
 ---
 
 对于JavaScript程序的调试，相比于alert()，使用console.log()是一种更好的方式，原因在于：alert()函数会阻断JavaScript程序的执行，从而造成副作用；而console.log()仅在控制台中打印相关信息，因此不会造成类似的顾虑

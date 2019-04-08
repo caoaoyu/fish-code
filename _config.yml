@@ -8,7 +8,7 @@ subtitle:
 description:
 keywords:
 author: Aoyo
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -79,5 +79,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/caoaoyu/fish.github.io
+  repo: https://github.com/caoaoyu/caoaoyu.github.io
   branch: [master]

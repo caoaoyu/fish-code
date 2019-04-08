@@ -1,7 +1,8 @@
 ---
 title: 初用 LeanCloud - 新建一个对象
 date: 2017-07-21
-tag: #LeanCloud#
+tags:
+  - LeanCloud
 ---
 
 ```javascript

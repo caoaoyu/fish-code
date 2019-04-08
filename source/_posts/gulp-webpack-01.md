@@ -1,7 +1,8 @@
 ---
 title: Gulp-webpack 构建
 date: 2017-03-10
-tag: #Gulp#
+tags:
+  - Gulp
 ---
 
 之前做了一个项目，使用 Gulp 进行构建，Gulp 只能说指定一个文件或者打包一些文件，这个时候好想使用 webpack 的模块化打包啊，简直不要太好用，所以我就找到了 “ gulp-webpack “

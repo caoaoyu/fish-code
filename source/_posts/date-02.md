@@ -1,7 +1,8 @@
 ---
 title: 如何实现时间相减得到所需时差
 date: 2016-10-10
-tag: #jQuery#
+tags:
+  - jQuery
 ---
 
 ```javascript

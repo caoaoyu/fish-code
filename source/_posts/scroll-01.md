@@ -1,7 +1,8 @@
 ---
 title: 固定右侧边栏
 date: 2017-03-10
-tag: #javascript#
+tags:
+  - javascript
 ---
 
 需求：右侧栏固定，并且不能挡到下面 div

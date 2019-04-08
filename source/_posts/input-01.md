@@ -1,7 +1,8 @@
 ---
 title: 阻止 input 默认提交事件
 date: 2017-02-08
-tag: #jQuery#
+tags:
+  - jQuery
 ---
 
 总结几条默认事件：

@@ -1,7 +1,8 @@
 ---
 title: Mac OSX RN 环境搭建遇到的问题
 date: 2017-02-08
-tag: #ReactNative#
+tags:
+  - ReactNative
 ---
 
 react-native init AwesomeProject 命令报错

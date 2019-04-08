@@ -1,8 +1,8 @@
-
 ---
 title: 初用 LeanCloud - 查询
 date: 2017-07-26
-tag: #LeanCloud#
+tags:
+  - LeanCloud
 ---
 
 #### 创建查询实例
